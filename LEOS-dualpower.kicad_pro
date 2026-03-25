@@ -484,7 +484,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "LEOS-stack-template.kicad_pro",
+    "filename": "LEOS-dualpower.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -552,10 +552,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "/home/matthewlyon/Projects/LEOS-stack-template/LEOS-stack-template-rd1/",
-      "pos_files": "",
+      "plot": "./",
+      "pos_files": "./",
       "specctra_dsn": "",
-      "step": "",
+      "step": "LEOS-dualpower.step",
       "svg": "",
       "vrml": ""
     },
